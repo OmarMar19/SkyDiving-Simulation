@@ -1,0 +1,11 @@
+Model Information:
+* title:	Terrain
+* source:	https://sketchfab.com/3d-models/terrain-7ec6d956393f44ddbb69a42196659732
+* author:	AkinD (https://sketchfab.com/akinaty)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Terrain" (https://sketchfab.com/3d-models/terrain-7ec6d956393f44ddbb69a42196659732) by AkinD (https://sketchfab.com/akinaty) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

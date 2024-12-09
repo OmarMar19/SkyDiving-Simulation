@@ -1,0 +1,11 @@
+Model Information:
+* title:	PUBG Green Parachute
+* source:	https://sketchfab.com/3d-models/pubg-green-parachute-92386c23092240a9b0948867ca88aebc
+* author:	Skin-Tracker (https://sketchfab.com/stairwave)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PUBG Green Parachute" (https://sketchfab.com/3d-models/pubg-green-parachute-92386c23092240a9b0948867ca88aebc) by Skin-Tracker (https://sketchfab.com/stairwave) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
